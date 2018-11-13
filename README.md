@@ -2,14 +2,14 @@
 Emoji is a simple golang package.
 
 ```
-go get github.com/gostores/emoji
+go get github.com/govenue/emoji
 ```
 
 Import it:
 
 ```
 import (
-	"github.com/gostores/emoji"
+	"github.com/govenue/emoji"
 )
 ```
 
@@ -21,7 +21,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gostores/emoji"
+	"github.com/govenue/emoji"
 )
 
 func main() {
